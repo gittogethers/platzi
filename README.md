@@ -39,7 +39,11 @@ New Relic Setup
 # Access GitHub Student Developer Pack
 - If you're not currently registered as a GitHub Education student, please go [here](https://education.github.com/discount_requests/application?utm_source=2024-06-11-Platzi-Challenge) to sign up. Once you've been successfully verified as a student, you'll be able to follow the steps above to receive the additional benefits.
 
+<<<<<<< ritarenee15-additions
 Note that you can still participate in the challenge if you are not verified as a GitHub Education student.
+=======
+Note that you can still participate in the challenge if you are not verified as a GitHub Education student. Sign up for a free trial of Copilot [here](https://github.com/features/copilot).
+>>>>>>> main
 
 Go to and fork [this](https://github.com/ritarenee15/foodme-platzi) repository. This is also where you will submit your final application.
 
@@ -51,4 +55,4 @@ To get started with Copilot, you'll need to make sure it is configured in your e
 Submit via a Pull Request on the home repository you'll fork from. Submit by 11:59pm EST Tuesday July 2nd to be eligible for prizes.
 
 ## Prizes
-Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic  & GitHub Education filled with swag.
+Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic  & GitHub Education filled with swag. Prozes will be announced on July 11th.
