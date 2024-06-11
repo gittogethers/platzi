@@ -7,6 +7,9 @@ In this challenge, you'll gain an understanding of how observability helps softw
 
 You will also use Copilot to help you build, find and resolve problems in the coding infrastructure. Making you a more effective engineer.
 
+## Dates
+11 June - 2 July 2024
+
 ## What level of experience is this challenge?
 This challenge is good for all developers. It will be helpful if you are familiar with html, css, javascript, angular, and bootstrap. 
 
@@ -29,6 +32,7 @@ GitHub Copilot is an AI coding assistant that helps you write code faster and wi
 ## Getting Started
 ### The Application
 Go to and fork [this](https://github.com/ritarenee15/foodme-platzi) repository. This is also where you will submit your final application.
+The OpenTelemetry bonus challenge will appear during the duration of the challenge. Watch out for the announcement!
 
 ### New Relic Setup
 - First, create your free New Relic account [here](https://one.newrelic.com?utm_source=github&utm_medium=community&utm_campaign=global-fy25-q1-signups&utm_content=repo).
