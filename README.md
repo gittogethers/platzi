@@ -5,15 +5,13 @@
 ## Overview
 In this challenge, you'll gain an understanding of how observability helps software engineering teams to understand the health and performance of their systems—and see beyond not just what errors occur, but to know when and why. Also, we wanted to mimic a real worls scenario of building an application, assessing errors and fielding new challenges as they arise.
 
-Through hands-on exercises, you'll explore observability and will learn how these practices enable engineers to gain insights into the inner workings of their applications, diagnose issues effectively, and make informed decisions to enhance performance and reliability.
-
 You will also use Copilot to help you build, find and resolve problems in the coding infrastructure. Making you a more effective engineer.
 
 ## What level of experience is this challenge?
 This challenge is good for all developers. It will be helpful if you are familiar with html, css, javascript, angular, and bootstrap. 
 
 ## Using New Relic for Debugging
-We'll be viewing the telemetry data we receive from the Astro Shop application on New Relic, an all-in-one observability platform that allows us to view telemetry data from different services and infrastructure.
+We'll be viewing the telemetry data we receive from the FoodMe application with New Relic, an all-in-one observability platform that allows us to view telemetry data from different services and infrastructure.
 
 
 ## Using Copilot
@@ -34,14 +32,20 @@ https://docs.newrelic.com/docs/more-integrations/open-source-telemetry-integrati
 
 ## Getting Started
 New Relic Setup
-- First, create your free New Relic account here.
-- Get access to additional data and ingest through New Relic for Students.
-- If you are currently verified through GitHub Education as a current student, log into your account and go to Help > Resources > New Relic for Students > Manage Account Eligibility > GitHub Education to allow New Relic to verify your student status. The additional data and ingest will be automatically added to your account.
+- First, create your free New Relic account [here](https://one.newrelic.com?utm_source=github&utm_medium=community&utm_campaign=global-fy25-q1-signups&utm_content=repo).
+- Get access to additional data and ingest through [New Relic for Students](https://newrelic.com/students?utm_source=github&utm_medium=community&utm_campaign=global-fy25-q1-kickoff_challenge&utm_content=repo).
+- You can begin the challenge while you wait for the additional Student benefits to be applied to your New Relic account.
+
+# Access GitHub Student Developer Pack
 - If you're not currently registered as a GitHub Education student, please go [here](https://education.github.com/discount_requests/application?utm_source=2024-06-11-Platzi-Challenge) to sign up. Once you've been successfully verified as a student, you'll be able to follow the steps above to receive the additional benefits.
 
+<<<<<<< ritarenee15-additions
+Note that you can still participate in the challenge if you are not verified as a GitHub Education student.
+=======
 Note that you can still participate in the challenge if you are not verified as a GitHub Education student. Sign up for a free trial of Copilot [here](https://github.com/features/copilot).
+>>>>>>> main
 
-Go to and fork this repository. This is also where you will submit your final application.
+Go to and fork [this](https://github.com/ritarenee15/foodme-platzi) repository. This is also where you will submit your final application.
 
 
 ## GitHub Copilot Setup
