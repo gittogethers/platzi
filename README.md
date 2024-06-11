@@ -51,4 +51,4 @@ To get started with Copilot, you'll need to make sure it is configured in your e
 Submit via a Pull Request on the home repository you'll fork from. Submit by 11:59pm EST Tuesday July 2nd to be eligible for prizes.
 
 ## Prizes
-Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic  & GitHub Education filled with swag.
+Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic  & GitHub Education filled with swag. Prozes will be announced on July 11th.
