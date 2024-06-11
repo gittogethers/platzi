@@ -41,11 +41,14 @@ New Relic Setup
 
 Note that you can still participate in the challenge if you are not verified as a GitHub Education student
 
-Go to and fork this repository.
+Go to and fork this repository. This is also where you will submit your final application.
 
 
 ## GitHub Copilot Setup
 To get started with Copilot, you'll need to make sure it is configured in your editor. [Go here](https://docs.github.com/en/copilot/quickstart) for a quickstart guide to getting started with Copilot. You can use the globe button in the upper right corner to change instructions in our Docs to another language. 
 
+## Sumbission
+Submit via a Pull Request on the home repository you'll fork from. Submit by 12am Tuesday July 2nd to be eligible for prizes.
 
-
+## Prizes
+Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic  & GitHub Education filled with swag.
