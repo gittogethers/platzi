@@ -39,7 +39,7 @@ New Relic Setup
 - If you are currently verified through GitHub Education as a current student, log into your account and go to Help > Resources > New Relic for Students > Manage Account Eligibility > GitHub Education to allow New Relic to verify your student status. The additional data and ingest will be automatically added to your account.
 - If you're not currently registered as a GitHub Education student, please go [here](https://education.github.com/discount_requests/application?utm_source=2024-06-11-Platzi-Challenge) to sign up. Once you've been successfully verified as a student, you'll be able to follow the steps above to receive the additional benefits.
 
-Note that you can still participate in the challenge if you are not verified as a GitHub Education student
+Note that you can still participate in the challenge if you are not verified as a GitHub Education student. Sign up for a free trial of Copilot [here](https://github.com/features/copilot).
 
 Go to and fork this repository. This is also where you will submit your final application.
 
