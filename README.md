@@ -3,9 +3,9 @@
 # Platzi x New Relic x GitHub Edu June 2024 Challenge
 
 ## Overview
-In this challenge, you'll gain an understanding of how observability helps software engineering teams to understand the health and performance of their applications. Also, we wanted to mimic a real worls scenario of building an application, assessing errors and fielding new challenges as they arise.
+In this challenge, you'll gain an understanding of how observability helps software engineering teams to understand the health and performance of their applications. Also, we wanted to mimic a real world scenario of building an application, assessing errors and fielding new challenges as they arise.
 
-You will also use Copilot to help you build, find and resolve problems in the coding infrastructure. Making you a more effective engineer.
+You will also use Copilot to help you build, find and resolve problems in the coding infrastructure, making you a more effective engineer.
 
 ## 📆 Dates
 11 June - 2 July 2024
@@ -31,7 +31,7 @@ GitHub Copilot is an AI coding assistant that helps you write code faster and wi
 
 ## Getting Started
 ### The Application
-➡️ Go to and fork [this](https://github.com/ritarenee15/foodme-platzi) repository.⬅️ This is also where you will submit your final application.
+➡️ Go to and fork [this](https://github.com/ritarenee15/foodme-platzi) repository⬅️ This is also where you will submit your final application.
 The OpenTelemetry bonus challenge will appear during the duration of the challenge. Watch out for the announcement!
 
 ### 🧰 New Relic Setup
@@ -47,8 +47,8 @@ The OpenTelemetry bonus challenge will appear during the duration of the challen
 ### GitHub Copilot Setup
 To get started with Copilot, you'll need to make sure it is configured in your editor. [Go here](https://docs.github.com/en/copilot/quickstart) for a quickstart guide to getting started with Copilot. You can use the globe button in the upper right corner to change instructions in our Docs to another language. 
 
-## 📬 Sumbission
+## 📬 Submission
 Submit via a Pull Request on the home repository you'll fork from. Submit by 11:59pm EST Tuesday July 2nd to be eligible for prizes.
 
 ## 🥇 Prizes
-Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic & GitHub Education filled with swag. Prozes will be announced on July 11th.
+Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic & GitHub Education filled with swag. Prizes will be announced on July 11th.
