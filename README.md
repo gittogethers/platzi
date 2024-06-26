@@ -48,7 +48,7 @@ The OpenTelemetry bonus challenge will appear during the duration of the challen
 To get started with Copilot, you'll need to make sure it is configured in your editor. [Go here](https://docs.github.com/en/copilot/quickstart) for a quickstart guide to getting started with Copilot. You can use the globe button in the upper right corner to change instructions in our Docs to another language. 
 
 ## 📬 Submission
-Submit via a Pull Request on the home repository you'll fork from. Submit by 11:59pm EST Tuesday July 2nd to be eligible for prizes.
+Submit via a Pull Request on the home repository you'll fork from. Submit by 11:59pm EST Tuesday July 2nd to be eligible for prizes. _Update: The challenge has been extended to Tuesday, July 9th_
 
 ## 🥇 Prizes
-Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic & GitHub Education filled with swag. Prizes will be announced on July 11th.
+Platzi, New Relic and GitHub Education will select FIVE (5) winners! Each winner will win a backpack from New Relic & GitHub Education filled with swag. Prizes will be announced on July 11th. _Update: Prizes will be announced on July 15th_
